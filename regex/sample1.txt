@@ -1,0 +1,6 @@
+HOSTNAME=localhost
+USERNAME=root
+PASSWORD=root
+PORT=3306
+DATABASE=test
+EMAIL=xyz@gmail.com
